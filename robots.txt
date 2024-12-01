@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: 
+Allow: /about.html
+Allow: /treatments.html
+Allow: /downloads.html
+Allow: /smilegallery.html
+Allow: /index.html
+
+Sitemap: http://www.alagappadental.com/sitemap.xml
